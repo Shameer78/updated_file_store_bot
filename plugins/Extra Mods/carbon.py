@@ -43,7 +43,7 @@ async def carbon_func(_, message):
     await message.reply_photo(
         photo=carbon,
         caption="**CᴏᴅᴇᴅᴇD Bʏ @Shameer**",
-        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝚄𝚂", url="https://t.me/movie_request_channe")]]),                   
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝚄𝚂", url="hhttps://t.me/moviessuggestiin")]]),                   
     )
     await m.delete()
     carbon.close()
